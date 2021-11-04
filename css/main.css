@@ -1,0 +1,41 @@
+
+/* design style*/
+body{
+    line-height: 1.5;
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+
+}
+img{
+    max-width: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+/* design format*/
+
+.hero>img{
+
+width: 100%;
+}
+image{
+    width: 100%;
+}
+.p{
+    text-align: center;
+}
+.hr{
+    border: 1px solid green;
+}
+.main-content{
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    
+
+
+}
+.anchor{
+    text-decoration: none;
+}
